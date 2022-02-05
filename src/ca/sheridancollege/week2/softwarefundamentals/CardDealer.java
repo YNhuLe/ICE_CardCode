@@ -1,3 +1,7 @@
+
+/*Student name: NhuY Le
+  Student Number : 991652865
+*/
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -15,5 +19,9 @@ public class CardDealer
     {
         Card nineClubs = new Card("Clbs", 9);
         nineClubs.setSuit("diamonds");
+        
+        
+        Card ca = new Card("Hearts", 13);
+        ca.setSuit("Hearts");
     }
 }
