@@ -17,6 +17,8 @@ public class CardDealer
 {
     public static void main(String[] args)
     {
+      
+      //We need to make the change on Git Hub
         Card nineClubs = new Card("Clbs", 9);
         nineClubs.setSuit("diamonds");
         
@@ -26,8 +28,8 @@ public class CardDealer
       
       
       System.out.println("This is the value"+ ca);
-      
-      
+      //print the information
+     System.out.print(nineClubs);
       
     }
 }
