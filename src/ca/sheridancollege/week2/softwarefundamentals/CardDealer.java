@@ -23,5 +23,11 @@ public class CardDealer
         
         Card ca = new Card("Hearts", 13);
         ca.setSuit("Hearts");
+      
+      
+      System.out.println("This is the value"+ ca);
+      
+      
+      
     }
 }
